@@ -1,6 +1,6 @@
 ## Welcome to RoseLab Wiki
 
-This Wiki serves as a knowledge base for members of Rose's [Machine Learning Lab](https://ml.ccis.northeastern.edu/) to maintain and share useful information.
+This wiki serves as a knowledge base for members of Rose's [Machine Learning Lab](https://ml.ccis.northeastern.edu/) to maintain and share useful information. Click on the wiki tab of this repository to start contributing!
 
 You can edit the wiki use Markdown
 
